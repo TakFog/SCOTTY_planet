@@ -1,0 +1,12 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!221 &22100000
+AnimatorOverrideController:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: ciabatte_anim
+  m_Controller: {fileID: 9100000, guid: 0df4362a349daf24ea4043a6b4f63c42, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: ece99b1c643ece643931519eac2b21a0, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 007e8f9736188bb4b9ac51890959fdbc, type: 2}
